@@ -12,3 +12,7 @@ USB Forensic Station
 - Raspberry Pi Case
 - OLED Screen
 - LEDs and Push Buttons
+
+### Raspberry Pi OS Lite (32-bit)
+`sudo apt update`
+`sudo apt install -y gddrescue sleuthkit yara`
